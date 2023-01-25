@@ -11,4 +11,4 @@ fetch(scripts.item(scripts.length - 1).src)
 ```
 
 Example of usage : 
-![image](https://i.imgur.com/3gihjfh.png)
+![image](https://i.imgur.com/U4nafBp.png)
