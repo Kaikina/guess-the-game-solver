@@ -2,7 +2,7 @@
 [Guess the Game](https://guessthe.game/) is a daily movie guessing game.
 
 ## How to use ? 
-Copy the code inside solver.js and paste it to your browser console while being on the framed wtf page.
+Copy the following code and paste it to your browser console while being on the framed wtf page.
 The answer of the daily movie will be output to the console.
 ```js
 const scripts = document.head.getElementsByTagName('script');
