@@ -1,9 +1,9 @@
 # Guess the Game
-[Guess the Game](https://guessthe.game/) is a daily video game guessing puzzle.
+[Guess the Game](https://framed.wtf/) is a daily movie guessing game.
 
 ## How to use ? 
-Copy the code inside solver.js and paste it to your browser console while being on the guess the game page.
-The answer of the puzzle will be output to the console.
+Copy the code inside solver.js and paste it to your browser console while being on the framed wtf page.
+The answer of the daily movie will be output to the console.
 ```js
 const scripts = document.head.getElementsByTagName('script');
 fetch(scripts.item(scripts.length - 1).src)
@@ -11,4 +11,4 @@ fetch(scripts.item(scripts.length - 1).src)
 ```
 
 Example of usage : 
-![image](https://i.imgur.com/U4nafBp.png)
+![image](https://i.imgur.com/3gihjfh.png)
