@@ -1,5 +1,5 @@
 # Guess the Game
-[Guess the Game](https://framed.wtf/) is a daily movie guessing game.
+[Guess the Game](https://guessthe.game/) is a daily movie guessing game.
 
 ## How to use ? 
 Copy the code inside solver.js and paste it to your browser console while being on the framed wtf page.
