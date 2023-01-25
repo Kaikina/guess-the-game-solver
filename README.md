@@ -2,7 +2,7 @@
 [Guess the Game](https://guessthe.game/) is a daily video game guessing puzzle.
 
 ## How to use ? 
-Copy the code inside solver.js and paste it your browser console while being on the guess the game page.
+Copy the code inside solver.js and paste it to your browser console while being on the guess the game page.
 The answer of the puzzle will be output to the console.
 ```js
 const scripts = document.head.getElementsByTagName('script');
